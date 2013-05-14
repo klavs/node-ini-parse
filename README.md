@@ -19,5 +19,3 @@ var syncData = iniParse.parseSync('./test.ini');
 // parse string ini format
 var strData = iniParse.parseString('key=value');
 </pre>
-
-
