@@ -1,5 +1,8 @@
-# Node .ini parser
+# Node .ini parse
+## Installation
+npm:
 
+`npm install iniparser`
 Simple .ini parse with node.js(change for npm 'iniparser https://github.com/shockie/node-iniparser')
 
 <pre>
@@ -15,7 +18,3 @@ var syncData = iniParse.parseSync('./test.ini');
 var strData = iniParse.parseString('key=value');
 </pre>
 
-## Installation
-npm:
-
-`npm install iniparser`
