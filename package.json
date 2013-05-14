@@ -1,0 +1,9 @@
+{
+  "name": "ini-parse",
+  "version": "1.0.0",
+  "description": "parse *.ini to *.json",
+  "main": "ini-parse",
+  "repository": "",
+  "author": "helix-dan<lotus.bat@gmail.com>",
+  "license": "BSD"
+}
