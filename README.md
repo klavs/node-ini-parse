@@ -20,3 +20,4 @@ var syncData = iniParse.parseSync('./test.ini');
 var strData = iniParse.parseString('key=value');
 </pre>
 
+
