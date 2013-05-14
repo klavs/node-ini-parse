@@ -2,7 +2,7 @@
 ## Installation
 npm:
 
-`npm install iniparser`
+`npm install ini-parse`
 
 ## Description
 Simple .ini parse with node.js(change for npm 'iniparser https://github.com/shockie/node-iniparser')
