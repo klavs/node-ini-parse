@@ -1,10 +1,10 @@
 {
-  "name": "ini-parse",
-  "version": "1.0.1",
-  "description": "parse *.ini",
+  "name": "menu-entry-parser",
+  "version": "1.0.0",
+  "description": "Parse menu entry files",
   "author": {
-    "name": "helix-dan",
-    "email": "lotus.bat@gmail.com"
+    "name": "Klavs Prieditis",
+    "email": "klavs@prieditis.lv"
   },
   "main": "./lib/ini-parse",
   "directories": {
@@ -14,8 +14,7 @@
     "type": "git",
     "url": "https://github.com/helix-dan/node-ini-parse.git"
   },
-  "readme": "Node .ini parse",
   "readmeFilename": "README.md",
-  "_id": "ini-parse@1.0.1",
-  "_from": "ini-parse@"
+  "_id": "menu-entry-parser@1.0.1",
+  "_from": "menu-entry-parser@"
 }
